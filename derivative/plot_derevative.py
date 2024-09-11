@@ -17,6 +17,7 @@ def afgeleide(t):
 
 t = np.arange(0.0, 2.0, 0.02)
 
+
 plt.figure()
 plt.subplot(311)
 # plot de flux
